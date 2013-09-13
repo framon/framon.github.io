@@ -1,27 +1,25 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
+title:            framon
+description:      O que vi nesta semana?
 disqus_shortname: 
 search:           true
-#Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://framon.monzeu.eti.br
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Fábio Ramon
+  avatar:         framon-photo.jpg
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         framon
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    "http://plus.google.com/104861428317707818805"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -32,18 +30,16 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: About
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Semanário
+    url: /weekly
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Bahia
 future:      true
 pygments:    true
 markdown:    kramdown
