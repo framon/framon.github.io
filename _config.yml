@@ -40,7 +40,7 @@ links:
     url: /weekly
 
 timezone:    America/Bahia
-future:      true
+future:      false
 pygments:    true
 markdown:    kramdown
 
