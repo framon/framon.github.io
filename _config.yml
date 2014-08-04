@@ -38,6 +38,8 @@ links:
     url: /articles
   - title: Semanário
     url: /weekly
+  - title: Gol Q
+    url: /golq
 
 timezone:    America/Bahia
 future:      false
