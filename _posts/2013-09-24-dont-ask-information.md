@@ -4,7 +4,7 @@ title: Don't ask information
 description: "Don't ask information"
 modified: 2013-09-24
 category: articles
-tags: [Object-Oriented]
+tags: [citação]
 ---
 
 
