@@ -4,7 +4,7 @@ title: Vida Curta, Saber Imenso
 description: "Vida Curta, Saber Imenso"
 modified: 2018-05-17
 category: articles
-tags: [Object-Oriented]
+tags: [citação]
 ---
 
 
