@@ -43,7 +43,7 @@ links:
 
 timezone:    America/Bahia
 future:      false
-pygments:    true
+highlighter: rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
